@@ -1,0 +1,4 @@
+app_name: "My Awesome Rails App"
+api_key: "123456789abcdef"
+api_base_url: "https://api.example.com"
+log_level: "debug"
